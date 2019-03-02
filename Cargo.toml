@@ -7,5 +7,5 @@ build = "build.rs"
 [dependencies]
 
 [build-dependencies]
-cmake = "0.1.33"
-bindgen = "0.38.0"
+cmake = "0.1.35"
+bindgen = "0.47.3"
